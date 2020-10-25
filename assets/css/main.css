@@ -721,8 +721,8 @@ input, select, textarea {
 		}
 
 		#personal-logo {
-			width: 10%;
-			height: 10%;
+			width: 55%;
+			height: 55%;
 		}
 
 /* List */
@@ -1301,8 +1301,6 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			background-image: url("images/personal_logo.png");
-			z-index: 9;
 		}
 
 			#header .logo .icon:before {
