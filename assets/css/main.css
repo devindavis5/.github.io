@@ -1301,6 +1301,7 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			background-image: url("images/personal_logo.png");
 		}
 
 			#header .logo .icon:before {
