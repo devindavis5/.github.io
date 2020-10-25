@@ -723,6 +723,7 @@ input, select, textarea {
 		#personal-logo {
 			width: 80%;
 			height: 80%;
+			vertical-align: middle;
 		}
 
 /* List */
