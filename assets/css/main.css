@@ -1302,6 +1302,7 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 			background-image: url("images/personal_logo.png");
+			z-index: 9;
 		}
 
 			#header .logo .icon:before {
