@@ -720,9 +720,15 @@ input, select, textarea {
 
 		}
 
+		@font-face {
+			font-family: logo;
+			src: url(assets/webfonts/Aquire-BW0ox.otf);
+		}
+
 		#personal-logo {
 			width: 95%;
 			height: 95%;
+			font-family: logo;
 		}
 
 /* List */
